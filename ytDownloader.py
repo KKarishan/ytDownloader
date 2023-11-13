@@ -1,4 +1,4 @@
-# first install below library thorugh your terminal
+# first install below library through your terminal
 # pip3 install pytube
 
 from pytube import YouTube
